@@ -1,0 +1,5 @@
+Project C - Wazuh SIEM Testing
+
+Hello World!
+
+This project is used to test GitHub repository activities.
