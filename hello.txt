@@ -4,6 +4,9 @@ Hello World!
 
 This project is used to test GitHub repository activities.
 
-Lol check 1 with the Siem for modification.
-Lol check 2 with the Siem for modification.
-Lol check 3 with the Siem for modification.
+Lol check 1 with the SIEM for modification.
+Lol check 2 with the SIEM for modification.
+Lol check 3 with the SIEM for modification.
+Lol check 4 with the SIEM for modification.
+Lol check 5 with the SIEM for modification.
+Lol check 6 with the SIEM for modification.
